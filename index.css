@@ -95,7 +95,7 @@ text-decoration: none;
 }
 
 a > img {
-    border-radius: 50%;
+    border-radius: 10%;
     width: 1.5em;
     height: 1.6em;
 }

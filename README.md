@@ -2,4 +2,4 @@
 no framework workflow ( Html , css , js )
 
 this is my portfolio ( with no framework ) like a linktre 
-It's contact website for me 
+Contact : Genblem1410@gmail.com
